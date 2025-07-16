@@ -142,8 +142,8 @@ docker compose up
 
 ## Thực hành dự án mini
 
-- Luyện tập và tìm hiểu sâu hơn `Docker-Compose` trong folder [metabase-docker-compose](demo-metabase-docker-compose/) với việc setup `Metabase` 
-- Luyện tập và tìm hiểu sâu hơn `Docker-Compose` + `Dockerfile` trong folder [metabase-docker-compose-dockerfile](demo-metabase-docker-compose-dockerfile/) với việc setup `Metabase` sử dụng thêm `Dockerfile`
+- Luyện tập và tìm hiểu sâu hơn `Docker-Compose` trong folder [metabase-docker-compose](03-demo-metabase-docker-compose/) với việc setup `Metabase` 
+- Luyện tập và tìm hiểu sâu hơn `Docker-Compose` + `Dockerfile` trong folder [metabase-docker-compose-dockerfile](04-demo-metabase-docker-compose-dockerfile/) với việc setup `Metabase` sử dụng thêm `Dockerfile`
 
 ---
 
