@@ -1,0 +1,2 @@
+# Liệt kê các packages cần thiết cho dự án của bạn
+requests
